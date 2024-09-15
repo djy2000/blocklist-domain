@@ -43,3 +43,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mcdonalds.co.uk
 0.0.0.0 www.mcdonalds.com
 0.0.0.0 e2659.a.akamaiedge.net
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 amazon.co.uk
+0.0.0.0 www.amazon.co.uk
