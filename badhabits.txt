@@ -31,6 +31,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 justeat.com
 0.0.0.0 just-eat.com
 0.0.0.0 dominos.co.uk
+0.0.0.0 dominos.com
 0.0.0.0 mcdonalds.co.uk
 0.0.0.0 mcdonalds.com
 0.0.0.0 www.justeat.co.uk
@@ -38,5 +39,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.justeat.com
 0.0.0.0 www.just-eat.com
 0.0.0.0 www.dominos.co.uk
+0.0.0.0 www.dominos.com
 0.0.0.0 www.mcdonalds.co.uk
 0.0.0.0 www.mcdonalds.com
+0.0.0.0 e2659.a.akamaiedge.net
