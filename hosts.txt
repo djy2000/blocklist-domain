@@ -27,3 +27,5 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+
